@@ -1,0 +1,88 @@
+/-------------------------------------------------------\
+|  Character Maker PRO v1.2 (Segunda edición)		|
+|  Crackeado por:					|
+|							|
+|  Ninjasuperk ;)	31/03/02			|
+\-------------------------------------------------------/
+
+Advertencia:
+------------
+
+Por ahora distribuyo el archivo ya parcheado mas el archivo
+.reg los dos funcionan de maravilla.
+Pero debo de decirles ke este archivo se debe distribuir
+"TAL KUAL ES" sin modifikarlo ni kitarle este texto, ademas
+no me responsabilizo por las katastrofes ke puedas kausar
+si usas este programa "debida" o "indebidamente". TIENES
+TU MISMO LA ERESPONSABILIDAD DE USAR O NO USAR EL CHARACTER
+MAKER PRO KRAKEADO.
+
+Tranki, todo esta bien... pero si no eskribo eso, me
+puede kaer la policia o demandarme por daños y perjuicios.
+
+Historia:
+---------
+Crack version 1.1:
+* Corregida una funcion en el archivo que impedia actuar
+al crack mismo, se distribuye el programa ya crackeado +
+un archivo .reg
+
+Crack version 1.0:
+* Primer crack que salio a la luz, se distribuye el programa
+ya crakeado + un archivo .reg
+
+Bienvenida:
+-----------
+
+Para todos los usuarios de RPG Maker y para mis amigos
+de Hellsoft :D aki les va esto:
+
+En ke konsiste el krack:
+------------------------
+
+Pues desde ahora en adelante ya no existe el limite de
+dibujar por un maximo de 256x256 (beneficios del registro
+anulados xD) puedes dibujar trankilo ;)
+
+Y ke onda kon el archivo .reg?:
+-------------------------------
+
+Pues es un pekeño trukito para ke abras el Character
+Maker PRO komo si estuviera totalmente registrado
+(nada de koloka el kodigo de Hoy xD) ya ke aun no he
+konseguido kitar la rutina de raiz tuve ke krear este
+"engaña registro" haciendole saber al Character Maker
+PRO ke el periodo de evaluacion expiró (pero komo está
+krackeado, aparece komo si hubieses pagado el registro
+xD)
+
+En resumen... dale doble click y si te pregunta ke se
+va a grabar algo en el registro de windows dile ke si
+(¡¡dahhh...!!) si te preokupas ke es lo ke hace, pues
+observa el archivo en el block de notas y sakate de
+dudas ;)
+
+Creditos:
+---------
+
+Kiero agradecerme a mi mismo... xD por ser tan guapo y
+distribuir mi primer pinino en el mundo del krack a todo
+el ke lo necesite :D
+
+Kiero agradecer a Vegetal Gibber, por ser un estupendo
+kompañero de traduccion y konvertirse en mi mejor amigo
+(aunke hasta ahora no me manda una foto suya xD)
+Ademas un saludazo a CHRoNO por ser la persona ke me
+inicio en el mundo de la traduccion (junto a Bokudono) y
+me presento a "Vegetal the Gibber" :D
+
+Finalmente:
+-----------
+
+Debo decir ke en el Perú se hacen las kosas mas
+estupendas del planeta (joerr ke tal Cherry xD) bueno...
+esto es kuando todos no migran a "Gringo-landia" xD
+¡Vamos chikos! no nos alienemos... ;)
+
+¡¡¡Listo!!! eso es todo, a disfrutar haciendo Charas y
+Sprites para el RPG Maker PRO ;)

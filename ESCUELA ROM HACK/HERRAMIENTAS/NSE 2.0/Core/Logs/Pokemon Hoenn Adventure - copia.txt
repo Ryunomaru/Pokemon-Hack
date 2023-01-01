@@ -1,0 +1,2 @@
+16/11/2014 12:14:40 : Opened with NSE 2.X.
+16/11/2014 12:14:52 : Navigated 0xE9ADDC 0xE9AEFC : 3, 3

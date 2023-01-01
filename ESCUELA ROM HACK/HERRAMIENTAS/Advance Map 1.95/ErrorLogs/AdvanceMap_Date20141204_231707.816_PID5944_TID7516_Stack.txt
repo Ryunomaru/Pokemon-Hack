@@ -1,0 +1,38 @@
+(EAccessViolation) Access violation
+Stacktrace:
+  $77B98E19
+  $77B98D28
+  $0040EF89
+  $0040EAC8
+  $0040AC02
+  $00540C88
+  $0040AC02
+  $0054392D
+  $00543829
+  $0040AC02
+  $00544D44
+  $0048561F
+  $0051E349
+  $00512E6A
+  $0051F69E
+  $00415AEA
+  $00415EAC
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\antonio\Desktop\Pokemon Glazed.GBA
+Romname: POKEMON EMERBPEE
+
+Actual position:
+aktModularForm: AMMainForm
+CurrentViewID: 0
+MapIndex: 0.3
+OldMapIndex: 0.3
+LoadingMapIndex: 0.3
+isMapFile: false
+MapHeaderData: 44313E08A864010914630709646748088F0104000A00020200000D00
+MapFooterData: 280000003C0000007C1E3E08841E3E0804F73D0834F73D0802020000
+EventHeaderData: 120C040504620109CC6301092C6401096C640109
+Connections (ConDataOffset/ConnectionAmount): $486758 / 1
+WildPokemonHeader: FFFF000077777777777777777777777777777777

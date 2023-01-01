@@ -1,0 +1,54 @@
+11/11/2014 19:59:55 : Opened with NSE 2.X.
+11/11/2014 20:00:13 : Navigated 0xEA0128 0x1E66B2 : 13, 1
+11/11/2014 20:00:44 : Saved Data 0xEA0128
+11/11/2014 23:43:46 : Opened with NSE 2.X.
+11/11/2014 23:43:55 : Navigated 0xEA0128 0x1E66B2 : 13, 1
+11/11/2014 23:44:18 : Saved Data 0xEA0128
+14/11/2014 0:12:48 : Opened with NSE 2.X.
+14/11/2014 0:13:08 : Navigated 0xE57AC8 0xE5A028 : 8, 32
+14/11/2014 16:38:58 : Opened with NSE 2.X.
+14/11/2014 16:39:13 : Navigated 0xEA0128 0x1E66B2 : 13, 1
+14/11/2014 16:39:41 : Saved Data 0xEA0128
+15/11/2014 11:19:35 : Opened with NSE 2.X.
+15/11/2014 11:21:08 : Opened with NSE 2.X.
+15/11/2014 11:26:09 : Opened Image C:\Users\antonio\Desktop\ROM HACK\Recursos del tito brock\Sprites\Sprites de Trainers\Front\2689800.png
+16/11/2014 20:08:52 : Opened with NSE 2.X.
+16/11/2014 20:09:00 : Navigated 0xEA0128 0x1E66B2 : 13, 1
+16/11/2014 20:09:23 : Saved Data 0xEA0128
+16/11/2014 22:15:51 : Opened with NSE 2.X.
+16/11/2014 22:16:07 : Navigated 0xEA0128 0x1E66B2 : 13, 1
+16/11/2014 22:18:59 : Opened with NSE 2.X.
+16/11/2014 22:19:07 : Navigated 0xEA0128 0x1E66B2 : 13, 1
+16/11/2014 22:19:27 : Navigated 0xEA0128 0x1E66B2 : 13, 1
+16/11/2014 22:19:51 : Saved Data 0xEA0128
+18/11/2014 23:27:20 : Opened with NSE 2.X.
+18/11/2014 23:27:30 : Navigated 0xEA0128 0x1E66B2 : 13, 1
+19/11/2014 17:30:36 : Opened with NSE 2.X.
+19/11/2014 17:30:44 : Navigated 0xEA0128 0x1E66B2 : 13, 1
+19/11/2014 17:31:17 : Saved Data 0xEA0128
+25/11/2014 19:04:07 : Opened with NSE 2.X.
+25/11/2014 19:05:25 : Navigated 0xEA0128 0x1E66B2 : 13, 1
+25/11/2014 19:06:12 : Saved Data 0xEA0128
+25/11/2014 19:07:35 : Opened with NSE 2.X.
+25/11/2014 20:23:52 : Opened with NSE 2.X.
+25/11/2014 20:27:47 : Opened with NSE 2.X.
+25/11/2014 20:27:56 : Opened with NSE 2.X.
+25/11/2014 20:28:10 : Opened Image C:\Users\antonio\Desktop\Trainers\Máximo.bmp
+25/11/2014 20:38:33 : Opened with NSE 2.X.
+25/11/2014 20:40:11 : Saved Data 0xE59FD8 to 0xE59FD8
+25/11/2014 20:41:44 : Saved Data 0xE48D38 to 0x21A374
+25/11/2014 20:41:48 : Replaced pointers at offsets:  0x1EC54C
+25/11/2014 20:47:32 : Opened with NSE 2.X.
+29/11/2014 13:41:54 : Opened with NSE 2.X.
+29/11/2014 13:42:11 : Navigated 0xEA0128 0x1E66B2 : 13, 1
+29/11/2014 13:43:36 : Saved Data 0xEA0128
+29/11/2014 13:44:57 : Opened with NSE 2.X.
+29/11/2014 13:45:06 : Navigated 0xEA0128 0x1E66B2 : 13, 1
+29/11/2014 13:45:27 : Saved Data 0xEA0128
+15/12/2014 21:58:55 : Opened with NSE 2.X.
+15/12/2014 21:59:56 : Opened Image C:\Users\antonio\Desktop\1.bmp
+02/01/2015 1:20:55 : Opened with NSE 2.X.
+14/06/2015 13:42:22 : Opened with NSE 2.X.
+15/06/2015 11:16:15 : Opened with NSE 2.X.
+15/06/2015 11:16:33 : Navigated 0xEA0128 0x1E66B2 : 13, 1
+15/06/2015 11:17:05 : Saved Data 0xEA0128

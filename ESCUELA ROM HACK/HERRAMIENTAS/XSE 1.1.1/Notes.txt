@@ -1,0 +1,47 @@
+if...
+[*]0x0 - Menor a...
+[*]0x1 - Igual a...
+[*]0x2 - Mayor a...
+[*]0x3 - Menor o igual a...
+[*]0x4 - Mayor o igual a...
+[*]0x5 - Distinto de...
+
+msgbox 0x5 ->
+compare LASTRESULT 0x1
+if 0x1 goto/call @sí
+
+TO
+0x1278 ->
+
+4000130
+Arriba BF
+abajo 7F
+derecha EF
+izquierda DF
+
+4000131
+L 1
+
+spriteface 0xID 0xDirección
+· 0x1: Mira abajo.
+· 0x2: Mira arriba.
+· 0x3: Mira a la izquierda.
+· 0x4: Mira a la derecha.
+
+setflag 0x1271
+setvar 0x40F4 0xMIDI
+
+Shiny de trainer
+setvar 0x8003 0x404
+---------------
+
+#dynamic 0xA95000
+'---------------
+#org 0xOFFSET NORMAL
+goto @inicio
+end
+#org @inicio
+
+[blue_fr]
+[red_fr]
+[black_fr]

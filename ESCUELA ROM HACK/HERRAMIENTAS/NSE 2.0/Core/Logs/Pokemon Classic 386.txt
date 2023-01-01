@@ -1,0 +1,18 @@
+03/07/2019 20:04:12 : Opened with NSE 2.X.
+03/07/2019 20:17:11 : Opened with NSE 2.X.
+03/07/2019 20:17:20 : Opened with NSE 2.X.
+03/07/2019 20:17:47 : Navigated 0x243BB8 0x0 : 14, 7
+03/07/2019 20:18:48 : Opened Image C:\Users\Oscar Brock\Desktop\Imagen.bmp
+03/07/2019 20:19:53 : Inserted Data at 0x80CBD0
+03/07/2019 20:22:30 : Navigated 0x244114 0x0 : 16, 8
+03/07/2019 20:22:45 : Opened Image C:\Users\Oscar Brock\Desktop\tilemap.bmp
+03/07/2019 20:23:12 : Inserted Data at 0x80E070
+04/07/2019 18:07:57 : Opened with NSE 2.X.
+04/07/2019 18:08:22 : Opened with NSE 2.X.
+04/07/2019 18:11:54 : Opened with NSE 2.X.
+04/07/2019 18:12:40 : Navigated 0x419E30 0x46A798 : 8, 2
+04/07/2019 18:14:14 : Opened Image C:\Users\Oscar Brock\Desktop\textbox.bmp
+04/07/2019 18:14:44 : Inserted Data at 0x80CBD0
+04/07/2019 18:15:47 : Inserted Data at 0x80CE50
+04/07/2019 18:16:01 : Navigated 0x419E30 0x46A798 : 8, 2
+04/07/2019 18:16:07 : Navigated 0x419E30 0x46A798 : 8, 2

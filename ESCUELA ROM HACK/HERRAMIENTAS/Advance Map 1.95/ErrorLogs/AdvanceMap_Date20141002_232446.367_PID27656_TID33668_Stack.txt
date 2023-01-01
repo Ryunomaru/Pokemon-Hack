@@ -1,0 +1,38 @@
+(ENotAPointer) AdvanceMapError(5): Value $274057E7 is not a Pointer! Please contakt luhopoke@gmail.com
+Stacktrace:
+  $0057FD9B
+  $0045B81B
+  $0045A057
+  $00440DA1
+  $00441F6F
+  $005596FE
+  $0055968E
+  $005748FE
+  $00517B0A
+  $0040AFFA
+  $00510E72
+  $0056FE17
+  $0052F6E5
+  $74E762FA
+  $74E76D3A
+  $74E7965E
+  $74E796C5
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\antonio\Desktop\Pokemon FireRed  Español.gba
+Romname: POKEMON FIREBPRE
+
+Actual position:
+aktModularForm: AMMainForm
+CurrentViewID: 0
+MapIndex: 3.30
+OldMapIndex: 3.30
+LoadingMapIndex: 3.30
+isMapFile: false
+MapHeaderData: D8E52E08DC723B0800801608602B3508260164007000020301060000
+MapFooterData: 180000007800000050CF2E0858CF2E08944A2D080C4B2D0802020000
+EventHeaderData: 0E04000530713B0880723B0800000000A0723B08
+Connections (ConDataOffset/ConnectionAmount): $352B3C / 3
+WildPokemonHeader: 031E000028923C0044923C000000000074923C00

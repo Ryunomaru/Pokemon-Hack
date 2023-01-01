@@ -1,0 +1,2 @@
+16/12/2014 23:10:24 : Opened with NSE 2.X.
+16/12/2014 23:10:32 : Navigated 0x41F1C8 0x471DEC : 5, 4

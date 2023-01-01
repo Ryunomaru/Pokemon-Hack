@@ -1,0 +1,27 @@
+31/12/2014 0:16:04 : Opened with NSE 2.X.
+31/12/2014 0:18:28 : Opened with NSE 2.X.
+31/12/2014 0:20:17 : Opened with NSE 2.X.
+31/12/2014 0:21:31 : Navigated 0xE69EBC 0xE76EBC : 8, 8
+31/12/2014 0:21:40 : Navigated 0xE6A6BC 0xE76EBC : 8, 8
+31/12/2014 0:26:59 : Opened with NSE 2.X.
+31/12/2014 0:27:57 : Navigated 0xE69EBC 0xE76EBC : 8, 8
+31/12/2014 0:30:33 : Navigated 0xE69EBC 0xE76EBC : 8, 8
+31/12/2014 0:31:17 : Saved Data 0xE76EBC to 0xE76EBC
+31/12/2014 0:31:25 : Navigated 0xE69EBC 0xE76EBC : 8, 8
+31/12/2014 0:31:38 : Saved Data 0xE69EBC
+31/12/2014 0:31:43 : Navigated 0xE6A6BC 0xE76EBC : 8, 8
+31/12/2014 0:32:18 : Saved Data 0xE76EBC to 0xE76EBC
+31/12/2014 0:32:29 : Saved Data 0xE6A6BC
+31/12/2014 0:33:17 : Navigated 0xE6AEBC 0xE76EBC : 8, 8
+31/12/2014 0:33:38 : Saved Data 0xE6AEBC
+31/12/2014 0:33:43 : Navigated 0xE6B6BC 0xE76EBC : 8, 8
+31/12/2014 0:34:01 : Saved Data 0xE6B6BC
+31/12/2014 0:34:06 : Navigated 0xE6BEBC 0xE76EBC : 8, 8
+31/12/2014 0:34:21 : Saved Data 0xE6BEBC
+31/12/2014 0:34:29 : Saved Data 0xE6BEBC
+31/12/2014 0:37:37 : Opened with NSE 2.X.
+31/12/2014 0:39:26 : Inserted Data at 0x822D28
+31/12/2014 0:44:44 : Saved Data 0xE6758C to 0xE67918
+31/12/2014 0:44:49 : Replaced pointers at offsets:  0x239E54
+31/12/2014 0:44:54 : Saved Data 0xEA20D6 to 0xEA20D6
+31/12/2014 0:46:02 : Inserted Data at 0x823528

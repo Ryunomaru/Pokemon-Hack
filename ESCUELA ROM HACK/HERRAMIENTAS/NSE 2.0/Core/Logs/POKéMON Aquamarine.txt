@@ -1,0 +1,12 @@
+19/06/2016 13:44:59 : Opened with NSE 2.X.
+19/06/2016 13:48:16 : Saved Data 0xE49094 to 0xE49094
+19/06/2016 13:48:31 : Inserted Data at 0x870E2C
+19/06/2016 13:48:37 : Saved Data 0xEA1D68 to 0xEA3C3C
+19/06/2016 13:48:39 : Replaced pointers at offsets:  0x23957C
+19/06/2016 13:56:52 : Opened with NSE 2.X.
+19/06/2016 13:57:05 : Opened with NSE 2.X.
+19/06/2016 13:57:31 : Inserted Data at 0x87162C
+19/06/2016 13:57:36 : Saved Data 0xEA0104 to 0xEA012C
+19/06/2016 13:57:39 : Replaced pointers at offsets:  0x239A24
+19/06/2016 13:57:44 : Saved Data 0xEA215C to 0xEA3F8C
+19/06/2016 13:57:45 : Replaced pointers at offsets:  0x239584

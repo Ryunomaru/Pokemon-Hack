@@ -1,0 +1,4 @@
+17/04/2018 15:58:03 : Opened with NSE 2.X.
+17/04/2018 17:28:44 : Opened with NSE 2.X.
+17/04/2018 17:36:00 : Opened with NSE 2.X.
+17/04/2018 17:54:48 : Opened with NSE 2.X.

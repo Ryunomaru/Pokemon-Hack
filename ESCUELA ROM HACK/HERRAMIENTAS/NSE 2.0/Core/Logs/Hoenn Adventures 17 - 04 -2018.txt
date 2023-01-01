@@ -1,0 +1,244 @@
+17/04/2018 0:14:17 : Opened with NSE 2.X.
+17/04/2018 0:31:10 : Inserted Data at 0x9F4BDC
+17/04/2018 0:31:19 : Saved Data 0xE5A460 to 0xE860B8
+17/04/2018 0:31:20 : Replaced pointers at offsets:  0x1EC8BC
+17/04/2018 0:31:29 : Inserted Data at 0x9F53DC
+17/04/2018 0:31:33 : Saved Data 0xE4EE14 to 0xE92118
+17/04/2018 0:31:34 : Replaced pointers at offsets:  0x1EC624
+17/04/2018 0:34:55 : Opened with NSE 2.X.
+17/04/2018 0:59:29 : Saved Data 0xE5AAA0 to 0xE5AAA0
+17/04/2018 1:00:37 : Inserted Data at 0x9F5BDC
+17/04/2018 1:04:07 : Saved Data 0xE57410 to 0xE9272C
+17/04/2018 1:04:08 : Replaced pointers at offsets:  0x1EC764
+17/04/2018 3:22:38 : Opened with NSE 2.X.
+17/04/2018 15:49:52 : Opened with NSE 2.X.
+17/04/2018 15:50:40 : Saved Data 0xE5A5C8 to 0xE860E0
+17/04/2018 15:50:42 : Replaced pointers at offsets:  0x1EC904
+17/04/2018 15:50:47 : Inserted Data at 0x9F8234
+17/04/2018 15:50:50 : Saved Data 0xE50A94 to 0xE92AE0
+17/04/2018 15:50:51 : Replaced pointers at offsets:  0x1EC66C
+17/04/2018 16:04:42 : Opened with NSE 2.X.
+17/04/2018 16:05:53 : Saved Data 0xE59FD8 to 0xE86108
+17/04/2018 16:05:54 : Replaced pointers at offsets:  0x1EC7E4
+17/04/2018 16:06:04 : Inserted Data at 0x9F8A34
+17/04/2018 16:06:08 : Saved Data 0x21A374 to 0x21E1A8
+17/04/2018 16:06:09 : Replaced pointers at offsets:  0x1EC54C
+17/04/2018 16:08:46 : Opened with NSE 2.X.
+17/04/2018 16:09:12 : Saved Data 0xE5A000 to 0xE92E40
+17/04/2018 16:09:14 : Replaced pointers at offsets:  0x1EC7EC
+17/04/2018 16:09:24 : Inserted Data at 0x9F9234
+17/04/2018 16:09:27 : Saved Data 0xE49010 to 0xE92E68
+17/04/2018 16:09:28 : Replaced pointers at offsets:  0x1EC554
+17/04/2018 16:12:40 : Saved Data 0xE5A078 to 0xE5A078
+17/04/2018 16:12:58 : Inserted Data at 0x9F9A34
+17/04/2018 16:13:01 : Saved Data 0xE498CC to 0xE93154
+17/04/2018 16:13:02 : Replaced pointers at offsets:  0x1EC55C
+17/04/2018 16:17:43 : Opened with NSE 2.X.
+17/04/2018 16:18:17 : Saved Data 0xE5A0A0 to 0xE93604
+17/04/2018 16:18:18 : Replaced pointers at offsets:  0x1EC7FC
+17/04/2018 16:18:25 : Inserted Data at 0x9FA234
+17/04/2018 16:18:28 : Saved Data 0xE49D4C to 0xE9362C
+17/04/2018 16:18:29 : Replaced pointers at offsets:  0x1EC564
+17/04/2018 16:22:23 : Saved Data 0xE5A0C8 to 0xE939F0
+17/04/2018 16:22:24 : Replaced pointers at offsets:  0x1EC804
+17/04/2018 16:22:30 : Inserted Data at 0x9FAA34
+17/04/2018 16:22:34 : Saved Data 0xE4A034 to 0xE93A18
+17/04/2018 16:22:36 : Replaced pointers at offsets:  0x1EC56C
+17/04/2018 16:25:06 : Opened with NSE 2.X.
+17/04/2018 16:26:24 : Saved Data 0xE5A0F0 to 0xE93EA0
+17/04/2018 16:26:25 : Replaced pointers at offsets:  0x1EC80C
+17/04/2018 16:26:35 : Inserted Data at 0x9FB234
+17/04/2018 16:26:40 : Saved Data 0xE4A418 to 0xE93EC8
+17/04/2018 16:26:41 : Replaced pointers at offsets:  0x1EC574
+17/04/2018 16:29:42 : Opened with NSE 2.X.
+17/04/2018 16:31:31 : Saved Data 0xE5A140 to 0xE9428C
+17/04/2018 16:31:32 : Replaced pointers at offsets:  0x1EC81C
+17/04/2018 16:31:54 : Inserted Data at 0x9FBA34
+17/04/2018 16:32:02 : Saved Data 0xE4ABDC to 0xEAE244
+17/04/2018 16:32:03 : Replaced pointers at offsets:  0x1EC584
+17/04/2018 16:40:34 : Opened with NSE 2.X.
+17/04/2018 16:41:11 : Saved Data 0xE5A168 to 0xE5A168
+17/04/2018 16:41:14 : Saved Data 0xE5A168 to 0xE942B4
+17/04/2018 16:41:15 : Replaced pointers at offsets:  0x1EC824
+17/04/2018 16:41:49 : Inserted Data at 0x9FC234
+17/04/2018 16:42:37 : Saved Data 0xE4AF3C to 0xEAE5AC
+17/04/2018 16:42:38 : Replaced pointers at offsets:  0x1EC58C
+17/04/2018 16:45:43 : Opened with NSE 2.X.
+17/04/2018 16:46:36 : Saved Data 0xE5A190 to 0xE942DC
+17/04/2018 16:46:37 : Replaced pointers at offsets:  0x1EC82C
+17/04/2018 16:46:45 : Inserted Data at 0x9FCA34
+17/04/2018 16:46:48 : Saved Data 0xE4B300 to 0xEAE930
+17/04/2018 16:46:49 : Replaced pointers at offsets:  0x1EC594
+17/04/2018 16:49:33 : Opened with NSE 2.X.
+17/04/2018 16:50:12 : Saved Data 0xE5A1B8 to 0xE99808
+17/04/2018 16:50:13 : Replaced pointers at offsets:  0x1EC834
+17/04/2018 16:50:59 : Saved Data 0xE99808 to 0xE9AB00
+17/04/2018 16:51:00 : Replaced pointers at offsets:  0x1EC834 0x3ED138
+17/04/2018 16:51:08 : Inserted Data at 0x9FD234
+17/04/2018 16:51:13 : Saved Data 0xE4B5D0 to 0xEAEDE4
+17/04/2018 16:51:14 : Replaced pointers at offsets:  0x1EC59C
+17/04/2018 16:53:02 : Saved Data 0xE5A258 to 0xEAF184
+17/04/2018 16:53:03 : Replaced pointers at offsets:  0x1EC854
+17/04/2018 16:53:33 : Inserted Data at 0x9FDA34
+17/04/2018 16:53:36 : Saved Data 0xE4C2E0 to 0xEAF1AC
+17/04/2018 16:53:37 : Replaced pointers at offsets:  0x1EC5BC
+17/04/2018 16:57:28 : Opened with NSE 2.X.
+17/04/2018 16:58:53 : Inserted Data at 0x9FE234
+17/04/2018 16:59:05 : Saved Data 0xE4D260 to 0xEAF5D0
+17/04/2018 16:59:06 : Replaced pointers at offsets:  0x1EC5E4
+17/04/2018 16:59:26 : Saved Data 0xE5A320 to 0xEAF918
+17/04/2018 16:59:27 : Replaced pointers at offsets:  0x1EC87C
+17/04/2018 17:04:24 : Opened with NSE 2.X.
+17/04/2018 17:05:01 : Saved Data 0xE5A3E8 to 0xEAF940
+17/04/2018 17:05:03 : Replaced pointers at offsets:  0x1EC8A4
+17/04/2018 17:05:14 : Inserted Data at 0x9FEA34
+17/04/2018 17:05:17 : Saved Data 0xE4E3D0 to 0xEAF968
+17/04/2018 17:05:18 : Replaced pointers at offsets:  0x1EC60C
+17/04/2018 17:12:04 : Opened with NSE 2.X.
+17/04/2018 17:12:44 : Saved Data 0xE5A410 to 0xEAFDD4
+17/04/2018 17:12:45 : Replaced pointers at offsets:  0x1EC8AC
+17/04/2018 17:12:50 : Inserted Data at 0x9FF234
+17/04/2018 17:12:54 : Saved Data 0xE4E790 to 0xEAFDFC
+17/04/2018 17:12:55 : Replaced pointers at offsets:  0x1EC614
+17/04/2018 17:29:58 : Opened with NSE 2.X.
+17/04/2018 17:32:57 : Saved Data 0xE5A438 to 0xEB0228
+17/04/2018 17:32:58 : Replaced pointers at offsets:  0x1EC8B4
+17/04/2018 17:33:07 : Inserted Data at 0x9FFA34
+17/04/2018 17:33:10 : Saved Data 0xE4EB14 to 0xEB0250
+17/04/2018 17:33:11 : Replaced pointers at offsets:  0x1EC61C
+17/04/2018 17:33:52 : Saved Data 0xE5A500 to 0xEB0588
+17/04/2018 17:33:53 : Replaced pointers at offsets:  0x1EC8DC
+17/04/2018 17:34:06 : Inserted Data at 0xA00234
+17/04/2018 17:34:10 : Saved Data 0xE4F99C to 0xEB05B0
+17/04/2018 17:34:11 : Replaced pointers at offsets:  0x1EC644
+17/04/2018 17:34:38 : Saved Data 0xE5A550 to 0xEB08BC
+17/04/2018 17:34:39 : Replaced pointers at offsets:  0x1EC8EC
+17/04/2018 17:34:50 : Inserted Data at 0xA00A34
+17/04/2018 17:34:54 : Saved Data 0xE500C8 to 0xEB08E4
+17/04/2018 17:34:55 : Replaced pointers at offsets:  0x1EC654
+17/04/2018 17:37:25 : Opened with NSE 2.X.
+17/04/2018 17:38:10 : Saved Data 0xE5A5F0 to 0xEB0D04
+17/04/2018 17:38:11 : Replaced pointers at offsets:  0x1EC90C
+17/04/2018 17:38:17 : Inserted Data at 0xA01234
+17/04/2018 17:38:21 : Saved Data 0xE50DB0 to 0xEB0D2C
+17/04/2018 17:38:22 : Replaced pointers at offsets:  0x1EC674
+17/04/2018 17:38:49 : Saved Data 0xE5A618 to 0xEB104C
+17/04/2018 17:38:50 : Replaced pointers at offsets:  0x1EC914
+17/04/2018 17:39:00 : Inserted Data at 0xA01A34
+17/04/2018 17:39:05 : Saved Data 0xE510DC to 0xEB1074
+17/04/2018 17:39:06 : Replaced pointers at offsets:  0x1EC67C
+17/04/2018 17:40:28 : Saved Data 0xE5A708 to 0xEB136C
+17/04/2018 17:40:29 : Replaced pointers at offsets:  0x1EC944
+17/04/2018 17:40:34 : Inserted Data at 0xA02234
+17/04/2018 17:40:37 : Saved Data 0xE524A8 to 0xEB1394
+17/04/2018 17:40:38 : Replaced pointers at offsets:  0x1EC6AC
+17/04/2018 17:41:13 : Saved Data 0xE5A780 to 0xEB1700
+17/04/2018 17:41:15 : Replaced pointers at offsets:  0x1EC95C
+17/04/2018 17:41:23 : Inserted Data at 0xA02A34
+17/04/2018 17:41:27 : Saved Data 0xE52F8C to 0xEB1728
+17/04/2018 17:41:28 : Replaced pointers at offsets:  0x1EC6C4
+17/04/2018 17:41:49 : Saved Data 0xE5A7A8 to 0xEB1A88
+17/04/2018 17:41:50 : Replaced pointers at offsets:  0x1EC964
+17/04/2018 17:41:56 : Inserted Data at 0xA03234
+17/04/2018 17:42:00 : Saved Data 0xE532D4 to 0xEB1AB0
+17/04/2018 17:42:01 : Replaced pointers at offsets:  0x1EC6CC
+17/04/2018 17:42:21 : Saved Data 0xE5A820 to 0xEB1E04
+17/04/2018 17:42:22 : Replaced pointers at offsets:  0x1EC97C
+17/04/2018 17:42:34 : Inserted Data at 0xA03A34
+17/04/2018 17:42:37 : Saved Data 0xE53D90 to 0xEB1E2C
+17/04/2018 17:42:38 : Replaced pointers at offsets:  0x1EC6E4
+17/04/2018 17:43:59 : Saved Data 0xE5A848 to 0xEB2178
+17/04/2018 17:44:00 : Replaced pointers at offsets:  0x1EC984
+17/04/2018 17:44:12 : Inserted Data at 0xA04234
+17/04/2018 17:44:16 : Saved Data 0xE54054 to 0xEB21A0
+17/04/2018 17:44:17 : Replaced pointers at offsets:  0x1EC6EC
+17/04/2018 17:44:38 : Saved Data 0xE5A870 to 0xEB2614
+17/04/2018 17:44:39 : Replaced pointers at offsets:  0x1EC98C
+17/04/2018 17:44:48 : Inserted Data at 0xA04A34
+17/04/2018 17:44:51 : Saved Data 0xE543F0 to 0xEB263C
+17/04/2018 17:44:52 : Replaced pointers at offsets:  0x1EC6F4
+17/04/2018 17:45:23 : Saved Data 0xE5A898 to 0xEB29B0
+17/04/2018 17:45:24 : Replaced pointers at offsets:  0x1EC994
+17/04/2018 17:45:30 : Inserted Data at 0xA05234
+17/04/2018 17:45:36 : Saved Data 0xE546D8 to 0xEB29D8
+17/04/2018 17:45:37 : Replaced pointers at offsets:  0x1EC6FC
+17/04/2018 17:45:57 : Saved Data 0xE5A8C0 to 0xEB2D1C
+17/04/2018 17:45:58 : Replaced pointers at offsets:  0x1EC99C
+17/04/2018 17:46:04 : Inserted Data at 0xA05A34
+17/04/2018 17:46:08 : Saved Data 0xE549EC to 0xEB2D44
+17/04/2018 17:46:09 : Replaced pointers at offsets:  0x1EC704
+17/04/2018 17:46:31 : Saved Data 0xE5A910 to 0xEB31C4
+17/04/2018 17:46:32 : Replaced pointers at offsets:  0x1EC9AC
+17/04/2018 17:46:41 : Inserted Data at 0xA06234
+17/04/2018 17:46:44 : Saved Data 0xE550C8 to 0xEB31EC
+17/04/2018 17:46:44 : Replaced pointers at offsets:  0x1EC714
+17/04/2018 17:47:05 : Saved Data 0xE5A938 to 0xEB34C8
+17/04/2018 17:47:06 : Replaced pointers at offsets:  0x1EC9B4
+17/04/2018 17:47:13 : Inserted Data at 0xA06A34
+17/04/2018 17:47:17 : Saved Data 0xE553B0 to 0xEB34F0
+17/04/2018 17:47:18 : Replaced pointers at offsets:  0x1EC71C
+17/04/2018 17:47:42 : Saved Data 0xE5A960 to 0xE5A960
+17/04/2018 17:47:44 : Saved Data 0xE5A960 to 0xEB37B8
+17/04/2018 17:47:45 : Replaced pointers at offsets:  0x1EC9BC
+17/04/2018 17:47:52 : Inserted Data at 0xA07234
+17/04/2018 17:47:55 : Saved Data 0xE55690 to 0xEB37E0
+17/04/2018 17:47:56 : Replaced pointers at offsets:  0x1EC724
+17/04/2018 17:48:17 : Saved Data 0xE5A988 to 0xEB3BB0
+17/04/2018 17:48:18 : Replaced pointers at offsets:  0x1EC9C4
+17/04/2018 17:48:25 : Inserted Data at 0xA07A34
+17/04/2018 17:48:28 : Saved Data 0xE559BC to 0xEB3BD8
+17/04/2018 17:48:29 : Replaced pointers at offsets:  0x1EC72C
+17/04/2018 17:48:53 : Saved Data 0xE5AA00 to 0xEB3FC8
+17/04/2018 17:48:54 : Replaced pointers at offsets:  0x1EC9DC
+17/04/2018 17:49:00 : Inserted Data at 0xA08234
+17/04/2018 17:49:04 : Saved Data 0xE5633C to 0xEB3FF0
+17/04/2018 17:49:04 : Replaced pointers at offsets:  0x1EC744
+17/04/2018 17:49:46 : Saved Data 0xE5D410 to 0xEB4498
+17/04/2018 17:49:47 : Replaced pointers at offsets:  0x1ECA0C
+17/04/2018 17:49:52 : Inserted Data at 0xA08A34
+17/04/2018 17:49:55 : Saved Data 0xE5AAF0 to 0xEB44C0
+17/04/2018 17:49:55 : Replaced pointers at offsets:  0x1EC774
+17/04/2018 17:50:58 : Saved Data 0xE5D438 to 0xEB4868
+17/04/2018 17:50:59 : Replaced pointers at offsets:  0x1ECA14
+17/04/2018 17:51:07 : Inserted Data at 0xA09234
+17/04/2018 17:51:11 : Saved Data 0xE5ADDC to 0xEB4890
+17/04/2018 17:51:12 : Replaced pointers at offsets:  0x1EC77C
+17/04/2018 17:51:54 : Saved Data 0xE5D460 to 0xEB4BF0
+17/04/2018 17:51:55 : Replaced pointers at offsets:  0x1ECA1C
+17/04/2018 17:52:00 : Inserted Data at 0xA09A34
+17/04/2018 17:52:03 : Saved Data 0xE5B170 to 0xEB4C18
+17/04/2018 17:52:04 : Replaced pointers at offsets:  0x1EC784
+17/04/2018 17:52:22 : Saved Data 0xE5D488 to 0xEB4FF0
+17/04/2018 17:52:23 : Replaced pointers at offsets:  0x1ECA24
+17/04/2018 17:52:31 : Inserted Data at 0xA0A234
+17/04/2018 17:52:35 : Saved Data 0xE5B4B8 to 0xEB5018
+17/04/2018 17:52:36 : Replaced pointers at offsets:  0x1EC78C
+17/04/2018 17:53:13 : Saved Data 0xE5D4B0 to 0xEB5448
+17/04/2018 17:53:14 : Replaced pointers at offsets:  0x1ECA2C
+17/04/2018 17:53:31 : Inserted Data at 0xA0AA34
+17/04/2018 17:53:34 : Saved Data 0xE5B838 to 0xEB5470
+17/04/2018 17:53:34 : Replaced pointers at offsets:  0x1EC794
+17/04/2018 17:53:50 : Saved Data 0xE5D4D8 to 0xEB5804
+17/04/2018 17:53:51 : Replaced pointers at offsets:  0x1ECA34
+17/04/2018 17:53:58 : Inserted Data at 0xA0B234
+17/04/2018 17:54:02 : Saved Data 0xE5BB74 to 0xEB582C
+17/04/2018 17:54:03 : Replaced pointers at offsets:  0x1EC79C
+17/04/2018 17:54:24 : Saved Data 0xE5D500 to 0xEB5B88
+17/04/2018 17:54:25 : Replaced pointers at offsets:  0x1ECA3C
+17/04/2018 17:54:32 : Inserted Data at 0xA0BA34
+17/04/2018 17:54:35 : Saved Data 0xE5BEF4 to 0xEB5BB0
+17/04/2018 17:54:36 : Replaced pointers at offsets:  0x1EC7A4
+17/04/2018 17:55:23 : Opened with NSE 2.X.
+17/04/2018 17:56:02 : Saved Data 0xE5D528 to 0xEB617C
+17/04/2018 17:56:03 : Replaced pointers at offsets:  0x1ECA44
+17/04/2018 17:56:08 : Inserted Data at 0xA0C234
+17/04/2018 17:56:11 : Saved Data 0xE5C338 to 0xEB61A4
+17/04/2018 17:56:12 : Replaced pointers at offsets:  0x1EC7AC
+17/04/2018 21:41:48 : Opened with NSE 2.X.
+17/04/2018 21:51:32 : Opened with NSE 2.X.
+17/04/2018 22:42:48 : Opened with NSE 2.X.
+17/04/2018 22:44:19 : Saved Data 0xE5AAA0 to 0xEB65F4
+17/04/2018 22:44:20 : Replaced pointers at offsets:  0x1EC9FC
+17/04/2018 22:44:29 : Inserted Data at 0xA0F99C
+17/04/2018 22:44:33 : Saved Data 0xE9272C to 0xEB661C
+17/04/2018 22:44:35 : Replaced pointers at offsets:  0x1EC764

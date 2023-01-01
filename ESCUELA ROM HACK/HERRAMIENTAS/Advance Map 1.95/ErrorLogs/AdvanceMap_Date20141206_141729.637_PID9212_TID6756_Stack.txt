@@ -1,0 +1,38 @@
+(EFCreateError) Unable to create file "C:\Users\antonio\Desktop\TILESET N?17\Tileset44.bmp"
+Stacktrace:
+  $0047F2A0
+  $004A1A82
+  $00438A95
+  $00438E80
+  $00523F21
+  $005244D8
+  $0040AFFA
+  $772862FA
+  $77286D3A
+  $772877C4
+  $7728788A
+  $005324F8
+  $0041A6E0
+  $00471C08
+  $00472F47
+  $0051A394
+  $0053D691
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\antonio\Desktop\Pokemon Glazed.GBA
+Romname: POKEMON EMERBPEE
+
+Actual position:
+aktModularForm: BlockEditorForm
+CurrentViewID: 0
+MapIndex: 0.50
+OldMapIndex: 0.50
+LoadingMapIndex: 0.50
+isMapFile: false
+MapHeaderData: E00B45080091090960B71609446D48089B0112013200020500000D00
+MapFooterData: 5000000014000000D8D94408E0D9440804F73D0824FB3D0802020000
+EventHeaderData: 030100038C900909D4900909DC900909DC900909
+Connections (ConDataOffset/ConnectionAmount): $486D38 / 1
+WildPokemonHeader: 0032000000000000C42555000000000000000000

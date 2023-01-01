@@ -1,0 +1,30 @@
+(EInvalidPointer) Invalid pointer operation
+Stacktrace:
+  $0040DA90
+  $0040A591
+  $0040C5CC
+  $0047640E
+  $0040CDB8
+  $0040BA59
+  $0040AC02
+  $00413A1D
+  $0040CE19
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\antonio\Desktop\Pokemon Glazed.gba
+Romname: POKEMON EMERBPEE
+
+Actual position:
+aktModularForm: AMMainForm
+CurrentViewID: 2
+MapIndex: 
+OldMapIndex: 
+LoadingMapIndex: 
+isMapFile: false
+MapHeaderData: 64BC3E0880DF0D0974E5010924684808670111001400020300000D00
+MapFooterData: 300000001A0000003CB93E085856020904F73D081CF73D0802020000
+EventHeaderData: 0300000314DF0D095CDF0D095CDF0D095CDF0D09
+Connections (ConDataOffset/ConnectionAmount): $48680C / 2
+WildPokemonHeader: 00100000140855003CF70001000000003C810001

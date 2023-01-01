@@ -1,0 +1,84 @@
+Version 1.1
+	- become a tool! No more erasing everything to apply the latest feature.
+	  Also, this adds a new level of customization, as it allows you to choose your
+	  own variables, flags and table sizes. Positions are calculated by the in-tool
+	  Free Space table.
+   
+	- Added Item scripts. Create items that execute scripts, so your scripts are as 
+	  portable as they get.
+
+	- In fact, more portable, with the key Input specials/hack. Allows you to block
+	  on the source certain keys in-game, as well as force predefined key inputs
+          and allow one script to be run with the press of a special button.
+	
+	- Trainer flag script, that are not wild battles.
+
+	- Several specials added for the safari section, as well as allowing for over
+	  25000 balls. Add and subtract balls, or set steps.
+
+	- Created 5 new pedometers, with varied range and rate of activity.
+
+
+Version 1.0 
+	
+	- repaired a bug in the OW adding, that made the new sprite look like the
+	  old sprite at that position (table 0), as well as one that made one
+	  sprite be treated as if it had the table 0 sprite size
+	
+	- added changing trainer picture on trainer's card.
+	
+	- added changing trainer backsprite
+	
+	- added dynamic switching Hero OW's at a specific place
+
+	- created Dynamic OW's for a subsection of addresses (0xffyy)
+
+	- added new type of scripting system, walking scripts
+	
+	- added party-affecting functions, such as status modifiers and pokemon
+	  erasers
+
+	- added one new function to the pokeDecrypt specials allowing to get
+	  the PP for one specific move
+	
+	- added wild battle generators and tile getting functions
+
+	- All previous changes are now solid enough to warrant this as a full
+          version.
+
+Version 0.2.1 (beta)
+	
+	- just some bug fixes:
+		- the specific wild pokemon code wasn't completely functional,
+		  because nintendo calculated the OTID at the end of the capture
+		  function again. Now, on that case, it does not.
+		  Also, until the pokemon is captured, the pokemon is still
+		  capturable. if you don't want that, disable the code after it
+		  was first found.
+		
+		- Nintendo never intended for the safari zone to run with 0 balls
+		  As such having 0 balls would cause some problems:
+			- Running would crash the game.
+			- Throwing a ball would give you 255 balls. Now, throwing
+			  one ball when you have none will make you throw a rock
+			  instead.
+
+
+Version 0.2 (beta)
+
+	- repaired missing std commands (give item scripts)
+
+	- Fixed small bug in the Swarm-Roam special and hack, now allowing for 
+	  compatibility with the Wild data switch. 
+	
+	- Added to the Swarm-roam the capability to overwrite the level hack, 
+	  allowing for Roaming pokemon (1 in 0x8006) to have a different level
+	
+	- Added three more slots to the Wild data switch, allowing you to replace
+	  dynamically all of the 4 datas without the need to ovewrite the last
+	  used one.
+	
+	- Sethealingplace command changed. now, it REQUIRES three variables to be
+	  set in order to work
+
+	- Forgot some specials in the previous version, now they're there

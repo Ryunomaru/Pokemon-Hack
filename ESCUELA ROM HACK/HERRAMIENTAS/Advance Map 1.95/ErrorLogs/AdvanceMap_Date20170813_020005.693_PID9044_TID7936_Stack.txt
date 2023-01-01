@@ -1,0 +1,42 @@
+(EAccessViolation) Access violation
+Stacktrace:
+  $00430656
+  $00476DCF
+  $0046AB12
+  $0046BA74
+  $0046A393
+  $00470641
+  $00523F21
+  $005244D8
+  $0040AFFA
+  $76752B5B
+  $767450F3
+  $76744A82
+  $76744850
+  $005324F8
+  $0041F049
+  $0041F3FF
+  $00478DE3
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\promo\Desktop\Pokémon Hoenn Adventure.GBA
+Romname: POKEMON RUBYAXVE
+
+Actual position:
+aktModularForm: AMMainForm
+CurrentViewID: 0
+MapIndex: 0.26
+OldMapIndex: 0.26
+LoadingMapIndex: 0.26
+isMapFile: true
+MapFileName: C:\Users\promo\Desktop\ZONAS A EXTRAER PARA HOENN ADVENTURES\Ruta 111 (0.26).map
+OriginalRomType: 
+MapFileAMVersion: 192
+MapHeaderData of Mapfile: 280000008C00000000000000050000000000C000
+MapHeaderData: 00000000000000000000000000000000000000000000000000000000
+MapFooterData: 280000008C0000000000000000000000F46C28086C6D280802020000
+EventHeaderData: 2304220900000000000000000000000000000000
+Connections (ConDataOffset/ConnectionAmount): $000000 / 0
+WildPokemonHeader: FFFF000077777777777777777777777777777777

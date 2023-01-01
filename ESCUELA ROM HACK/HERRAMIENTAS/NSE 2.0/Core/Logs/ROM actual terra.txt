@@ -1,0 +1,5 @@
+16/12/2014 23:09:28 : Opened with NSE 2.X.
+16/12/2014 23:11:29 : Opened with NSE 2.X.
+16/12/2014 23:12:14 : Opened with NSE 2.X.
+16/12/2014 23:12:25 : Navigated 0x41F1C8 0x471DEC : 5, 4
+16/12/2014 23:13:18 : Saved Data 0x41F1C8

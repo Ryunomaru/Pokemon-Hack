@@ -1,0 +1,44 @@
+19/10/2015 22:52:56 : Opened with NSE 2.X.
+19/10/2015 22:53:06 : Navigated 0xE69EBC 0xE76EBC : 8, 8
+19/10/2015 22:54:36 : Saved Data 0xE76EBC to 0xE76EBC
+19/10/2015 22:54:40 : Saved Data 0xE76EBC to 0xE76EBC
+19/10/2015 22:54:51 : Inserted Data at 0x8016C8
+19/10/2015 22:54:53 : Saved Data 0xE69EBC
+19/10/2015 22:55:09 : Navigated 0xE6A6BC 0xE76EBC : 8, 8
+19/10/2015 22:57:32 : Inserted Data at 0x801EC8
+19/10/2015 22:57:34 : Saved Data 0xE6A6BC
+19/10/2015 22:57:47 : Navigated 0xE6AEBC 0xE76EBC : 8, 8
+19/10/2015 22:59:58 : Inserted Data at 0x8026C8
+19/10/2015 23:00:08 : Opened with NSE 2.X.
+19/10/2015 23:00:31 : Saved Data 0xE6AEBC
+19/10/2015 23:00:47 : Navigated 0xE6AEBC 0xE76EBC : 8, 8
+19/10/2015 23:00:57 : Saved Data 0xE6AEBC
+19/10/2015 23:01:08 : Navigated 0xE6B6BC 0xE76EBC : 8, 8
+19/10/2015 23:06:24 : Inserted Data at 0x802EC8
+19/10/2015 23:06:26 : Saved Data 0xE6B6BC
+19/10/2015 23:06:49 : Navigated 0xE6BEBC 0xE76EBC : 8, 8
+19/10/2015 23:07:22 : Inserted Data at 0x8036C8
+19/10/2015 23:07:24 : Saved Data 0xE6BEBC
+24/10/2015 17:49:39 : Opened with NSE 2.X.
+24/10/2015 17:50:30 : Inserted Data at 0x803F44
+24/10/2015 17:50:36 : Saved Data 0xE49094 to 0xE49094
+24/10/2015 17:50:45 : Saved Data 0xE48D58 to 0xEA1D68
+24/10/2015 17:50:47 : Replaced pointers at offsets:  0x23957C
+24/10/2015 22:31:12 : Opened with NSE 2.X.
+24/10/2015 22:32:35 : Inserted Data at 0x8047D4
+24/10/2015 22:32:45 : Saved Data 0xE4941C to 0xE4941C
+24/10/2015 22:32:48 : Saved Data 0xE4941C to 0xE4941C
+24/10/2015 22:32:53 : Saved Data 0xE4941C to 0xEA0104
+24/10/2015 22:32:55 : Replaced pointers at offsets:  0x239A24
+24/10/2015 22:33:00 : Saved Data 0xE490BC to 0xEA215C
+24/10/2015 22:33:02 : Replaced pointers at offsets:  0x239584
+26/10/2015 19:35:39 : Opened with NSE 2.X.
+26/10/2015 19:37:16 : Saved Data 0xE49780 to 0xE49780
+26/10/2015 19:37:59 : Inserted Data at 0x80A70C
+26/10/2015 19:38:39 : Saved Data 0xE49444 to 0xEA2550
+26/10/2015 19:38:40 : Replaced pointers at offsets:  0x23958C
+26/10/2015 23:05:48 : Opened with NSE 2.X.
+26/10/2015 23:06:16 : Saved Data 0xE49A6C to 0xE49A6C
+26/10/2015 23:06:26 : Inserted Data at 0x80AF0C
+26/10/2015 23:06:33 : Saved Data 0xE497A8 to 0xEA2828
+26/10/2015 23:06:35 : Replaced pointers at offsets:  0x239594

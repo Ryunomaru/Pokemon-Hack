@@ -1,0 +1,38 @@
+(EAccessViolation) Access violation
+Stacktrace:
+  $770C8E19
+  $770C8D28
+  $0040EF89
+  $0040EAC8
+  $0040AC02
+  $00540C88
+  $0040AC02
+  $0054392D
+  $00543829
+  $0040AC02
+  $00544D44
+  $0048561F
+  $0051E349
+  $00512E6A
+  $0051F69E
+  $00415AEA
+  $00415EAC
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\antonio\Desktop\Pokemon Aquamarine\Roms apoyo\Pokémon Glazed Español.GBA
+Romname: POKEMON EMERBPEE
+
+Actual position:
+aktModularForm: AMMainForm
+CurrentViewID: 0
+MapIndex: 0.28
+OldMapIndex: 0.28
+LoadingMapIndex: 0.28
+isMapFile: false
+MapHeaderData: C4A53F08CCC107094C680809AC3F0209F3011D001B000D0300000D00
+MapFooterData: 28000000280000001C963F08246D030904F73D084CF73D0802020000
+EventHeaderData: 02020800DCC007090CC107091CC10709CCC10709
+Connections (ConDataOffset/ConnectionAmount): $1023F94 / 2
+WildPokemonHeader: 001C0000800B550048FA00010000000000000000

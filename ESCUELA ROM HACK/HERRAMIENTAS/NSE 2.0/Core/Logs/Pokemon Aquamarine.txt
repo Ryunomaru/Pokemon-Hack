@@ -1,0 +1,29 @@
+03/02/2016 13:48:08 : Opened with NSE 2.X.
+03/02/2016 13:49:18 : Saved Data 0xE4EC18 to 0xE4EC18
+03/02/2016 13:49:36 : Inserted Data at 0x83668C
+03/02/2016 13:51:01 : Inserted Data at 0x79037C
+03/02/2016 13:51:17 : Opened with NSE 2.X.
+03/02/2016 13:52:07 : Inserted Data at 0x836E8C
+03/02/2016 13:52:13 : Saved Data 0xE4E884 to 0xEA2B78
+03/02/2016 13:52:14 : Replaced pointers at offsets:  0x239654
+27/02/2016 3:28:31 : Opened with NSE 2.X.
+27/02/2016 3:29:23 : Saved Data 0xE4C2A4 to 0xE4C2A4
+27/02/2016 3:29:35 : Inserted Data at 0x846898
+27/02/2016 3:29:44 : Saved Data 0xE4BFE4 to 0xEA2F04
+27/02/2016 3:29:46 : Replaced pointers at offsets:  0x2395F4
+29/02/2016 23:13:50 : Opened with NSE 2.X.
+29/02/2016 23:14:53 : Saved Data 0xE615E4 to 0xE615E4
+29/02/2016 23:17:48 : Saved Data 0xE615E4 to 0xE615E4
+29/02/2016 23:18:39 : Inserted Data at 0x84A918
+29/02/2016 23:18:42 : Saved Data 0xE612B0 to 0xEA326C
+29/02/2016 23:18:43 : Replaced pointers at offsets:  0x2398E4
+29/02/2016 23:23:04 : Opened with NSE 2.X.
+29/02/2016 23:25:39 : Saved Data 0xE67C30 to 0xE67C30
+29/02/2016 23:25:48 : Inserted Data at 0x84B118
+29/02/2016 23:25:52 : Saved Data 0xE67918 to 0xEA35D0
+29/02/2016 23:25:53 : Replaced pointers at offsets:  0x2399C4
+16/04/2016 21:30:13 : Opened with NSE 2.X.
+16/04/2016 21:30:50 : Saved Data 0xE4E548 to 0xE4E548
+16/04/2016 21:30:58 : Inserted Data at 0x85D55C
+16/04/2016 21:31:04 : Saved Data 0xE4E248 to 0xEA38E8
+16/04/2016 21:31:05 : Replaced pointers at offsets:  0x239644

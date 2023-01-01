@@ -1,0 +1,38 @@
+(EAccessViolation) Access violation
+Stacktrace:
+  $77838E19
+  $77838D28
+  $0040EF89
+  $0040EAC8
+  $0040AC02
+  $00540C88
+  $0040AC02
+  $0054392D
+  $0043185C
+  $0047024D
+  $00523F21
+  $005244D8
+  $0040AFFA
+  $772862FA
+  $77286D3A
+  $772877C4
+  $7728788A
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\antonio\Desktop\HA\Pokemon Hoenn Adventure.GBA
+Romname: POKEMON RUBYAXVE
+
+Actual position:
+aktModularForm: AMMainForm
+CurrentViewID: 0
+MapIndex: 0.50
+OldMapIndex: 0.50
+LoadingMapIndex: 0.50
+isMapFile: false
+MapHeaderData: E00B45080091090960B71609446D48089B0112013200020500000D00
+MapFooterData: 5000000014000000D8D94408E0D9440804F73D0824FB3D0802020000
+EventHeaderData: 030100038C900909D4900909DC900909DC900909
+Connections (ConDataOffset/ConnectionAmount): $486D38 / 1
+WildPokemonHeader: 0032000000000000C42555000000000000000000

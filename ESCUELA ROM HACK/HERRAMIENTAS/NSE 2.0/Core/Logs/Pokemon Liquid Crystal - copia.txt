@@ -1,0 +1,10 @@
+07/05/2015 14:01:40 : Opened with NSE 2.X.
+26/05/2015 21:09:18 : Opened with NSE 2.X.
+26/05/2015 21:09:35 : Opened with NSE 2.X.
+26/05/2015 21:12:23 : Saved Data 0xE4A87C to 0xE4A87C
+26/05/2015 21:12:48 : Saved Data 0xE4A87C to 0xE4A87C
+26/05/2015 21:13:12 : Inserted Data at 0xB3F500
+26/05/2015 21:14:37 : Saved Data 0xE4A87C to 0xE4A87C
+26/05/2015 21:14:46 : Inserted Data at 0xB42500
+26/05/2015 21:15:26 : Saved Data 0xE4A5F0 to 0xEA1D68
+26/05/2015 21:15:30 : Replaced pointers at offsets:  0x2395B4

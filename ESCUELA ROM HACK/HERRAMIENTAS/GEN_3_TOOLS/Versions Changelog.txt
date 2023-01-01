@@ -1,0 +1,347 @@
+﻿~~~~~~~~~~~~~~~~~~~~~~ VERSION 2.9 ~~~~~~~~~~~~~~~~~~~~~~
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+=========================================================
+ > UPDATES
+=========================================================
+  - Because I was distracted by life's shit and stuff,
+  I don't remember all minor changes in this version.
+---------------------------------------------------------
+G3T:
+  - Improved the feature that allows to automatically
+  create .ini files for unsupported roms.
+---------------------------------------------------------
+Moves Editor:
+  - It is now possible to edit Sound-based moves.
+  - Several slight updates for more conviviality.
+---------------------------------------------------------
+=========================================================
+ > FIXED BUGS
+=========================================================
+G3T
+  - Fixed a silly semi-major bug causing Anti-Exploud to
+  incorrectly read and/or replace some characters due to 
+  a "corrupted" Table.ini file. (This fix was separately
+  included in a previous version, G3T v2.8.1)
+  - Fixed a harmless bug where after finding free space, 
+  the tool may tell you that there is not enough free
+  space after clicking the "Apply" button. (This minor
+  bug may be encountered only by people who use 00 as
+  free byte.)
+  - Fixed a minor bug where creating an .ini file for an
+  unsupported rom may not be done correctly, moreover,
+  this option has been GREATLY improved.
+  - Fixed a minor bug where the MoveAnimationTable offset
+  of the LeafGreen English rom was wrong.
+---------------------------------------------------------
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~ VERSION 2.8 ~~~~~~~~~~~~~~~~~~~~~~
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+=========================================================
+ > UPDATES
+=========================================================
+G3T:
+  - Removed banners and pictures.
+  - Customisable lists no longer contain unnecessary
+  additional options. You can still force them to have
+  more options by editing the Customisation ini files.
+---------------------------------------------------------
+Moves Editor:
+  - It is now possible to edit 2 unused bits.
+---------------------------------------------------------
+Trainers Editor:
+  - Added a default moves feature.
+---------------------------------------------------------
+Anti-Exploud:
+  - Removed an unnecessary and LAME easter egg.
+---------------------------------------------------------
+=========================================================
+ > FIXED BUGS
+=========================================================
+G3T
+  - The tools now show an error image instead of freezing
+  when they fail to read a sprite correctly.
+  - Fixed the Table.ini issue.
+---------------------------------------------------------
+Anti-Exploud:
+  - The tool used to not find text when it actually
+  should or to stay in a "stalled" state, all of that
+  has been fixed.
+---------------------------------------------------------
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~ VERSION 2.7 ~~~~~~~~~~~~~~~~~~~~~~
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+=========================================================
+ > UPDATES
+=========================================================
+Trainers Editor:
+  - Fixed a minor bug.
+---------------------------------------------------------
+Anti-Exploud:
+  - Fixed a minor bug.
+---------------------------------------------------------
+=========================================================
+ > FIXED BUGS
+=========================================================
+Trainers Editor:
+  - The tool now saves the changes when you edit the
+  Pokémon Data Offset.
+---------------------------------------------------------
+Anti-Exploud:
+  - Upgraded the scripts to correctly match the last
+  change done in v2.6.
+---------------------------------------------------------
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~ VERSION 2.6 ~~~~~~~~~~~~~~~~~~~~~~
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+=========================================================
+ > UPDATES
+=========================================================
+G3T:
+  - Fixed a Table.ini issue.
+---------------------------------------------------------
+Anti-Exploud:
+  - The tool now is compatible with Pokémon games'
+  special characters.
+---------------------------------------------------------
+=========================================================
+ > FIXED BUGS
+=========================================================
+G3T:
+  - The tool is now compatible with Windows XP, Windows
+  Seven, and Windows 8. (I personnally did the tests)
+---------------------------------------------------------
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~ VERSION 2.5 ~~~~~~~~~~~~~~~~~~~~~~
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+=========================================================
+ > UPDATES
+=========================================================
+G3T:
+  - Few changes for better perfomance and easier use.
+  - The .ini files support now the usual methods as well
+  as my "dynamic" method.
+---------------------------------------------------------
+=========================================================
+ > FIXED BUGS
+=========================================================
+Trainers Editor:
+  - Fixed a minor bug that occured when the tool tries to
+  load an item or a pokemon sprites.
+---------------------------------------------------------
+Pokémon Editor:
+  - Fixed some very minor bugs in the Move Learnset part.
+---------------------------------------------------------
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~ VERSION 2.4 ~~~~~~~~~~~~~~~~~~~~~~
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+=========================================================
+ > UPDATES
+=========================================================
+G3T:
+  - Few changes for better perfomance and easier use.
+---------------------------------------------------------
+Moves Editor:
+  - It is now possible to edit Contest data.
+  - It is now easier to scroll thourought the table.
+---------------------------------------------------------
+Items Editor:
+  - It is now easier to scroll thourought the table.
+---------------------------------------------------------
+=========================================================
+ > FIXED BUGS
+=========================================================
+G3T:
+  - Fixed the "Unsupported ROM!" error bug that happens
+  for Windows XP users.
+---------------------------------------------------------
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~ VERSION 2.3 ~~~~~~~~~~~~~~~~~~~~~~
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+=========================================================
+ > UPDATES
+=========================================================
+G3T:
+  - A new tool added to the kit.
+  - Tools now have some "?" signs in front of some of 
+  the data giving hints and infos.
+  - Offsets now are colored in red if they're incorrect.
+  - Tools now show sprites of items, trainers, ...etc ^^
+  - Tools now save less frequently when it is not needed
+  to save.
+  - Added a "Last Opened ROM" feature.
+---------------------------------------------------------
+Moves Editor:
+  - Replaced the drop box with a list of moves, making it
+  more easy to edit moves more quickly.
+  - It is now possible to edit a move's description.
+---------------------------------------------------------
+Anti-Exploud:
+  - Being the most confusing tool, I made some slight 
+  changes to make it easier to understand what this tool
+  can do exactly.
+---------------------------------------------------------
+Pokémon Editor:
+  - It is now possible to edit sprites and palettes 
+  offsets.
+  - The tool supports ROM that are hacked to have more 
+  than 5 evolutions per Pokémon. (Just in case)
+---------------------------------------------------------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+=========================================================
+ > FIXED BUGS
+=========================================================
+G3T:
+  - Fixed a minor bug where special texts such as [pk], 
+  [mn], ...etc are not recognisable in caps.
+---------------------------------------------------------
+Moves Editor:
+  - Fixed a minor visual bug where types colorisation
+  doesn't show correctly.
+---------------------------------------------------------
+Trainers Editor:
+  - Fixed a minor bug where the "default" Prize Money is
+  calculated and saved incorrectly. (Now it is flawless)
+---------------------------------------------------------
+Pokémon Editor:
+  - Fixed 2 visual bugs where the Gender Ratio and Base 
+  Happiness text is not correctly shown.
+  - Fixed a minor bug where the Lv. to learn a move is 
+  not read correctly.
+---------------------------------------------------------
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+=========================================================
+ > NEW TOOLS
+=========================================================
+  - Items Editor
+---------------------------------------------------------
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~ VERSION 2.1 ~~~~~~~~~~~~~~~~~~~~~~
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+=========================================================
+ > UPDATES
+=========================================================
+G3T:
+  - A new tool (Pokémon Editor).
+  - General improvments.
+  - Added a Preferences feature.
+---------------------------------------------------------
+Trainers Editor:
+  - Less messages spam.
+---------------------------------------------------------
+Anti-Exploud:
+  - Conciderably improved the speed!! (This improvement
+  is not noticed with the Advanced Mode's custom offset
+  tough, it always takes less than 1 second with that XD)
+  - More options in the Advanced Mode.
+---------------------------------------------------------
+Moves Editor:
+  - Renaming a move is now auto-saved.
+---------------------------------------------------------
+=========================================================
+ > FIXED BUGS
+=========================================================
+G3T:
+  - Fixed a semi-major bug where G3T adds an empty byte 
+  to the rom whenever it saves changes.
+---------------------------------------------------------
+Trainers Editor:
+  - Fixed the Prize Money calculation.
+  - Fixed a minor bug where changing the Custom Moveset
+  property is not saved except if you change the Custom
+  Held Item property. (These 2 properties are tied)
+---------------------------------------------------------
+Anti-Exploud:
+  - Fixed few minor bugs in the Search window. (nothing
+  that could harm your rom at all!)
+---------------------------------------------------------=========================================================
+ > NEW TOOLS
+=========================================================
+  - Pokémon Editor
+---------------------------------------------------------
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~ VERSION 2.0 ~~~~~~~~~~~~~~~~~~~~~~
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+=========================================================
+ > UPDATES
+=========================================================
+G3T:
+  - Two new tools. (Anti-Exploud + Trainers Editor)
+  - Improved Moves Editor.
+  - The tools are now a lot more compatible with Pokémon
+  games' special text. (Anti-Exploud is not!)
+  - Added the possibility to customize the default text
+  shown in some tools.
+  - Added pictures for a better look.
+  - The file "roms.ini" has been splitted into 5 files
+  that only support the English versions of the games.
+  (You can still add new ini files for other langages
+  if you know how to do it.)
+  - Added the "Read Me" file.
+  - Added the "Versions Changelog" file.
+  - Added an About G3T section.
+  - Added a Settings feature.
+  - For more "safety", saving is disabled by default and
+  whenever you open a tool for the first time.
+  - Added a Roms Backup feature (enabled by default).
+  - Added a "Recently Opened" feature.
+---------------------------------------------------------
+Moves Editor:
+  - It is now easier to change the description and/or
+  the animation of a move to make it the same as the
+  description/animation of another one.
+  - The tool now appears in the taskbar.
+  - You can edit moves names with special text such as
+  [PK], [MN], ...
+---------------------------------------------------------
+=========================================================
+ > FIXED BUGS
+=========================================================
+G3T:
+  - Fixed the default offsets for Fire Red English.
+---------------------------------------------------------
+Moves Editor:
+  - Fixed a minor bug where the tool does not save
+  when you change a move's effect only if you changed
+  it from the little drop down box.
+  - Fixed a MAJOR bug where changing the description
+  of a move is applied to the next move instead.
+---------------------------------------------------------
+=========================================================
+ > NEW TOOLS
+=========================================================
+  - Anti-Exploud
+  - Trainers Editor
+---------------------------------------------------------
+
+
+
+=========================================================
+ > WHAT TO EXPECT IN THE NEXT RELEASE(S)
+=========================================================
+  - Addition of more editable data to the Pokémon Editor;
+  such as icons, cries, TMs/HMs Compatibility, ... etc.
+  - Types Editor and/or Types Match-ups Editor
+  - Text Editor (Anti-Exploud can be used for some very
+  limited text editing tasks tough, but it is mainly
+  made for decapitalisation!)
+  - A handful tool for Scripters
+  - Pokedex data and order editor
+  
+      (I don't promise anything tough.)
+---------------------------------------------------------

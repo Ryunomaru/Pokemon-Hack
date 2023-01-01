@@ -1,0 +1,38 @@
+(EAccessViolation) Access violation
+Stacktrace:
+  $77B88DA9
+  $77B88CB8
+  $0040EF89
+  $0040EAC8
+  $0040AC02
+  $00540C88
+  $0040AC02
+  $0054392D
+  $0043185C
+  $0047024D
+  $00523F21
+  $005244D8
+  $0040AFFA
+  $75E762FA
+  $75E76D3A
+  $75E777C4
+  $75E7788A
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\Oscar Brock\Desktop\Pokémon Classic 151+.gba
+Romname: POKEMON FIREBPRS
+
+Actual position:
+aktModularForm: AMMainForm
+CurrentViewID: 2
+MapIndex: 32.0
+OldMapIndex: 32.0
+LoadingMapIndex: 32.0
+isMapFile: false
+MapHeaderData: 8CD74408D0EF0C09F0950009000000008F010F010B00000800000000
+MapFooterData: 8C0000001E0000007CD5440874C1170984F83D080CFB3D0802020000
+EventHeaderData: 1214000CF0EC0C09A0EE0C0940EF0C0940EF0C09
+Connections (ConDataOffset/ConnectionAmount): $000000 / 0
+WildPokemonHeader: FFFF000077777777777777777777777777777777

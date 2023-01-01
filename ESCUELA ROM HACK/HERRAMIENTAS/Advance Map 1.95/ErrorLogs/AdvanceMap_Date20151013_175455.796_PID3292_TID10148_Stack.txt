@@ -1,0 +1,38 @@
+(EAccessViolation) Access violation
+Stacktrace:
+  $00588445
+  $0058C1B2
+  $004375FE
+  $00438EF2
+  $00439D54
+  $00523F21
+  $005244D8
+  $0040AFFA
+  $756062FA
+  $75606D3A
+  $756077C4
+  $7560788A
+  $005324F8
+  $0041A6E0
+  $00471C08
+  $00472F47
+  $0051A394
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\antonio\Desktop\Islas Doradas  - 11-10.gba
+Romname: POKEMON RUBYAXVE
+
+Actual position:
+aktModularForm: BlockEditorForm
+CurrentViewID: 0
+MapIndex: 22.0
+OldMapIndex: 22.0
+LoadingMapIndex: 22.0
+isMapFile: false
+MapHeaderData: 2C542D0820BA380819C31508000000008F017C002000000800000000
+MapFooterData: 0C000000090000004C532D0854532D08446E2808646F280802020000
+EventHeaderData: 01020000F8B9380810BA38080000000000000000
+Connections (ConDataOffset/ConnectionAmount): $000000 / 0
+WildPokemonHeader: FFFF000077777777777777777777777777777777

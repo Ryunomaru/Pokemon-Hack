@@ -1,0 +1,19 @@
+03/01/2018 2:24:53 : Opened with NSE 2.X.
+03/01/2018 2:25:50 : Inserted Data at 0x801030
+03/01/2018 2:25:55 : Saved Data 0xEB239A to 0xEB3B9C
+03/01/2018 2:25:56 : Replaced pointers at offsets:  0x2398DC
+03/01/2018 2:26:26 : Inserted Data at 0x801830
+03/01/2018 2:26:31 : Saved Data 0xEB1C33 to 0xEB3F50
+03/01/2018 2:26:32 : Replaced pointers at offsets:  0x239924
+03/01/2018 2:27:13 : Inserted Data at 0x802030
+03/01/2018 2:27:17 : Saved Data 0xEB1FC7 to 0xEB42C0
+03/01/2018 2:27:17 : Replaced pointers at offsets:  0x23992C
+03/01/2018 2:27:56 : Inserted Data at 0x802830
+03/01/2018 2:27:59 : Saved Data 0xEB2B66 to 0xEB4670
+03/01/2018 2:28:00 : Replaced pointers at offsets:  0x23993C
+03/01/2018 2:28:48 : Inserted Data at 0x803030
+03/01/2018 2:28:57 : Saved Data 0xEB2FB3 to 0xEB4A90
+03/01/2018 2:28:58 : Replaced pointers at offsets:  0x239944
+03/01/2018 2:29:51 : Inserted Data at 0x803830
+03/01/2018 2:29:54 : Saved Data 0xEB2773 to 0xEB4E8C
+03/01/2018 2:29:55 : Replaced pointers at offsets:  0x239934

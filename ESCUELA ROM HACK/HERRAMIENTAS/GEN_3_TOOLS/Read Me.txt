@@ -1,0 +1,135 @@
+﻿===========================================================
+                    F A Q
+===========================================================
+-----------------------------------------------------------
+What is G3T?
+-----------------------------------------------------------
+G3T, or Gen 3 Tools, is a little project to make a little
+collection of tools for Pokémon R/S/E/FR/LG hackers..
+
+-----------------------------------------------------------
+Who made this tool?
+-----------------------------------------------------------
+Just a guy who likes to be called Kurapika.
+
+-----------------------------------------------------------
+Will there be a version for Mac or Linux?
+-----------------------------------------------------------
+No, I don't think so.
+
+-----------------------------------------------------------
+How do I use G3T?
+-----------------------------------------------------------
+  -1 Unzip the file you downloaded.
+  -2 If you repointed and/or extended some data of you
+  rom, update the corresponding .ini file.
+  -3 Double-click "G3T.exe".
+  -4 Make a backup of your rom.
+  -5 Open your rom.
+  -6 ???
+  -7 Don't profit.
+
+-----------------------------------------------------------
+Do I have to credit someone when I use G3T?
+-----------------------------------------------------------
+No, I don't care. Just don't claim it as your own.
+
+-----------------------------------------------------------
+Will you share the source code? And when?
+-----------------------------------------------------------
+Yes. I don't know when, ask Sabrina.
+
+-----------------------------------------------------------
+Which roms does G3T support?
+-----------------------------------------------------------
+By default, G3T only supports English versions of Pokémon 
+Ruby, Sapphire, Emerald, FireRed, and LeafGreen.
+
+-----------------------------------------------------------
+How do I save the changes?
+-----------------------------------------------------------
+G3T auto-saves changes most of the time.
+If you don't see a save button or a save option in a tool,
+that means the changes are AUTOMATICALLY applied and saved.
+Also, CHANGES CANNOT BE UNDONE!
+
+If you think I should add a manual save mode, tell me.
+I'm concidering this option tough anyway, but if many
+people ask for it I may add it earlier, this is not a
+promise tough.
+===========================================================
+
+
+
+===========================================================
+                    E R R O R S
+===========================================================
+-----------------------------------------------------------
+The program crashes as soon as it is launched
+-----------------------------------------------------------
+  - Maybe you need to download Microsoft .NET Framework 4:
+  http://go.microsoft.com/fwlink/?LinkID=165587
+ 
+-----------------------------------------------------------
+Error reading "Table.ini" file.
+-----------------------------------------------------------
+  - The table.ini file is missing or corrupted, make sure
+  to correctly extract the whole content of "G3T.rar".
+ 
+-----------------------------------------------------------
+Unsupported ROM!
+-----------------------------------------------------------
+  - You are trying to open an unsupported rom.
+  - Your rom is corrupted.
+ 
+-----------------------------------------------------------
+Trainers Editor is not working
+-----------------------------------------------------------
+  - This is a v2.4 bug. Download the latest version.
+
+-----------------------------------------------------------
+G3T shows blank/wrong informations
+-----------------------------------------------------------
+  - The .ini file corresponding to your rom contains 
+  incorrect values.
+
+-----------------------------------------------------------
+G3T is frozen
+-----------------------------------------------------------
+  - Most likely, it is caused by a corrupted sprite/palette
+  data or pointer.
+===========================================================
+
+
+
+===========================================================
+                    C R E D I T S
+===========================================================
+  - Gamer2020 for the roms.ini file.
+  - Jambo51 for the TrainerEditor.ini file.
+  - Amethyst (Pokémon Reborn) for Trainer Editor's banner.
+  - Developped with Microsoft Visual Studio.
+  - Gamer2020 for the sprites/palettes reading functions.
+===========================================================
+
+
+
+===========================================================
+                    F E E D B A C K
+===========================================================
+  For any questions, suggestions or bug report:
+    - You can post on G3T's Pokécommunity thread:
+    http://pokecommunity.com/showthread.php?t=311461
+    - Or, contact me via my Pokécommunity profile:
+    http://pokecommunity.com/member.php?u=370050
+===========================================================
+
+
+
+===========================================================
+    P O K E M O N     S W I F T   S W I M
+===========================================================
+  You can also check my hack (Pokémon Swift Swim):
+http://pokecommunity.com/showthread.php?t=309519
+===========================================================
+

@@ -1,0 +1,38 @@
+(EAccessViolation) Access violation
+Stacktrace:
+  $0040DA3E
+  $004A6768
+  $004A6EB3
+  $004A46F3
+  $004A701E
+  $004AD966
+  $004AD77C
+  $0057C8F7
+  $00434BB9
+  $0043497A
+  $0043447B
+  $00434291
+  $0045A4A2
+  $0046FA01
+  $0046F8C7
+  $00476FFA
+  $004677D8
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\antonio\Desktop\copia traducida.GBA
+Romname: POKEMON EMERBPEE
+
+Actual position:
+aktModularForm: AMMainForm
+CurrentViewID: 2
+MapIndex: 0.15
+OldMapIndex: 0.15
+LoadingMapIndex: 0.15
+isMapFile: false
+MapHeaderData: 80344308C4B51C09E8861F09000000006E0187003B00030300000D00
+MapFooterData: 300000002C000000F82343080024430804F73D08ECF93D0802020000
+EventHeaderData: 0B090B06C4220109CC23010914240109C4240109
+Connections (ConDataOffset/ConnectionAmount): $100234C / 2
+WildPokemonHeader: 000F000000000000E02455000000000010255500

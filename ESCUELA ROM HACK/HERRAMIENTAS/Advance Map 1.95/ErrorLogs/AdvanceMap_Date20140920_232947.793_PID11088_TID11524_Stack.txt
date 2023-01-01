@@ -1,0 +1,37 @@
+(EFCreateError) Unable to create file "C:\Users\antonio\Desktop\Tiles con nueva paleta n?2.bmp"
+Stacktrace:
+  $0047F2A0
+  $004A30A0
+  $00471E77
+  $00523F21
+  $005244D8
+  $0040AFFA
+  $754D62FA
+  $754D6D3A
+  $754D77C4
+  $754D788A
+  $005324F8
+  $0041F049
+  $0041F3FF
+  $00478DE3
+  $0041F3BA
+  $00402E75
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\antonio\Desktop\Pokemon FireRed  Español.gba
+Romname: POKEMON FIREBPRE
+
+Actual position:
+aktModularForm: AMMainForm
+CurrentViewID: 2
+MapIndex: 4.2
+OldMapIndex: 4.2
+LoadingMapIndex: 4.2
+isMapFile: false
+MapHeaderData: 24542D080C983B08278D1608000000002C0103005800000800000000
+MapFooterData: 0D0000000A00000018532D0820532D08B44B2D08844E2D0802020000
+EventHeaderData: 02030003A0973B08D0973B0800000000E8973B08
+Connections (ConDataOffset/ConnectionAmount): $000000 / 0
+WildPokemonHeader: FFFF000000000000000000000000000000000000

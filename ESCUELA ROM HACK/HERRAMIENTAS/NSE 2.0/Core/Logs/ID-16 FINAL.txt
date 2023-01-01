@@ -1,0 +1,5 @@
+19/06/2015 2:16:11 : Opened with NSE 2.X.
+19/06/2015 2:17:55 : Saved Data 0xE5A7D0 to 0xE5A7D0
+19/06/2015 2:18:07 : Inserted Data at 0x8097F8
+19/06/2015 2:18:12 : Saved Data 0xE53608 to 0xE92664
+19/06/2015 2:18:14 : Replaced pointers at offsets:  0x1EC6D4

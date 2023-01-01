@@ -1,0 +1,38 @@
+(EReadPosNull) AdvanceMapError(1): Try to read at pos 0! Please contakt luhopoke@gmail.com
+Stacktrace:
+  $0057FBDE
+  $0058012E
+  $005802D6
+  $00474CBD
+  $00470177
+  $00523F21
+  $005244D8
+  $0040AFFA
+  $772262FA
+  $77226D3A
+  $772277C4
+  $7722788A
+  $005324F8
+  $0041F049
+  $0041F3FF
+  $00478DE3
+  $0041F3BA
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\Oscar Brock\Desktop\Pokemon Version Eclat Pourpre V-1-4-2.gba
+Romname: POKEMON FIREBPRE
+
+Actual position:
+aktModularForm: AMMainForm
+CurrentViewID: 0
+MapIndex: 
+OldMapIndex: 
+LoadingMapIndex: 
+isMapFile: false
+MapHeaderData: 00000000000000000000000000000000000000000000000000000000
+MapFooterData: 00000000000000000000000000000000000000000000000000000000
+EventHeaderData: 0000000000000000000000000000000000000000
+Connections (ConDataOffset/ConnectionAmount): $000000 / 0
+WildPokemonHeader: 0000000000000000000000000000000000000000

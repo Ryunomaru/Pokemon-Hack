@@ -1,0 +1,3 @@
+18/02/2015 22:45:22 : Opened with NSE 2.X.
+27/08/2017 22:12:07 : Opened with NSE 2.X.
+27/08/2017 22:12:15 : Navigated 0xE69EBC 0xE76EBC : 8, 8

@@ -1,0 +1,8 @@
+07/07/2016 1:46:59 : Opened with NSE 2.X.
+07/07/2016 1:47:36 : Opened with NSE 2.X.
+07/07/2016 1:48:08 : Saved Data 0xE4A5C8 to 0xEA0180
+07/07/2016 1:48:10 : Replaced pointers at offsets:  0x239A4C
+07/07/2016 1:48:20 : Inserted Data at 0x8727D4
+07/07/2016 1:48:25 : Saved Data 0xE4A324 to 0xEB0B20
+07/07/2016 1:48:27 : Replaced pointers at offsets:  0x2395AC
+03/09/2016 1:12:00 : Opened with NSE 2.X.

@@ -1,0 +1,3 @@
+07/05/2015 13:32:59 : Opened with NSE 2.X.
+07/05/2015 13:34:26 : Navigated 0xE6C6BC 0xE76EE4 : 8, 8
+07/05/2015 13:34:44 : Saved Data 0xE6C6BC

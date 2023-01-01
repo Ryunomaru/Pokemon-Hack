@@ -1,0 +1,33 @@
+21/07/2016 16:50:22 : Opened with NSE 2.X.
+21/07/2016 17:21:38 : Opened with NSE 2.X.
+21/07/2016 17:21:48 : Navigated 0xE69EBC 0xE76EBC : 8, 8
+21/07/2016 17:22:09 : Saved Data 0xE76EBC to 0xEA00C4
+21/07/2016 17:22:10 : Replaced pointers at offsets:  0x235740
+21/07/2016 17:22:19 : Inserted Data at 0x800000
+21/07/2016 17:22:25 : Saved Data 0xE69EBC
+21/07/2016 17:22:28 : Saved Data 0xE69EBC
+21/07/2016 17:22:38 : Saved Data 0xEA00C4 to 0xEA00EC
+21/07/2016 17:22:39 : Replaced pointers at offsets:  0x235740
+21/07/2016 17:22:49 : Inserted Data at 0x800800
+21/07/2016 17:22:51 : Saved Data 0xE69EBC
+21/07/2016 17:24:38 : Opened with NSE 2.X.
+21/07/2016 17:24:48 : Navigated 0xE6A6BC 0xE76EBC : 8, 8
+21/07/2016 17:25:57 : Opened with NSE 2.X.
+21/07/2016 17:26:10 : Navigated 0xE6A6BC 0xE76EBC : 8, 8
+21/07/2016 17:26:26 : Saved Data 0xE76EBC to 0xE76EBC
+21/07/2016 17:26:35 : Inserted Data at 0x801000
+21/07/2016 17:26:37 : Saved Data 0xE6A6BC
+21/07/2016 17:26:45 : Navigated 0xE6AEBC 0xE76EBC : 8, 8
+21/07/2016 17:27:03 : Saved Data 0xE76EBC to 0xE76EBC
+21/07/2016 17:27:10 : Inserted Data at 0x801800
+21/07/2016 17:27:11 : Saved Data 0xE6AEBC
+21/07/2016 17:27:16 : Navigated 0xE6B6BC 0xE76EBC : 8, 8
+21/07/2016 17:27:30 : Saved Data 0xE76EBC to 0xE76EBC
+21/07/2016 17:27:32 : Saved Data 0xE6B6BC
+21/07/2016 17:28:12 : Opened with NSE 2.X.
+21/07/2016 17:28:23 : Navigated 0xE6BEBC 0xE76EBC : 8, 8
+21/07/2016 17:28:41 : Saved Data 0xE76EBC to 0xE76EBC
+21/07/2016 17:28:43 : Saved Data 0xE6BEBC
+21/07/2016 17:28:58 : Opened with NSE 2.X.
+23/07/2016 13:18:52 : Opened with NSE 2.X.
+25/07/2016 22:02:53 : Opened with NSE 2.X.

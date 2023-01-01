@@ -1,0 +1,80 @@
+01/01/2017 0:34:55 : Opened with NSE 2.X.
+01/01/2017 0:35:12 : Navigated 0xE69EBC 0xE76EBC : 8, 8
+01/01/2017 0:35:51 : Navigated 0xE69EBC 0xE76EBC : 8, 8
+01/01/2017 0:36:09 : Navigated 0xE6A6BC 0xE76EBC : 8, 8
+01/01/2017 0:36:15 : Navigated 0xE6AEBC 0xE76EBC : 8, 8
+01/01/2017 0:36:27 : Navigated 0xE6B6BC 0xE76EBC : 8, 8
+01/01/2017 0:36:33 : Navigated 0xE69EBC 0xE76EBC : 8, 8
+01/01/2017 0:37:04 : Saved Data 0xE76EBC to 0xE97BCC
+01/01/2017 0:37:06 : Replaced pointers at offsets:  0x239FD4
+01/01/2017 0:37:13 : Inserted Data at 0x80AB14
+01/01/2017 0:37:15 : Saved Data 0xE69EBC
+01/01/2017 0:37:22 : Navigated 0xE6A6BC 0xE76EBC : 8, 8
+01/01/2017 0:37:30 : Navigated 0xE69EBC 0xE76EBC : 8, 8
+01/01/2017 0:37:47 : Inserted Data at 0x80B314
+01/01/2017 0:38:11 : Navigated 0xE69EBC 0xE76EBC : 8, 8
+01/01/2017 0:38:32 : Inserted Data at 0x80B334
+01/01/2017 0:39:01 : Opened with NSE 2.X.
+01/01/2017 0:39:10 : Navigated 0xE69EBC 0xE76EBC : 8, 8
+01/01/2017 0:39:39 : Navigated 0xE69EBC 0xE76EBC : 8, 8
+01/01/2017 0:39:49 : Navigated 0xE69EBC 0xE76EBC : 8, 8
+01/01/2017 0:40:09 : Saved Data 0xE76EBC to 0xE76EBC
+01/01/2017 0:40:11 : Saved Data 0xE76EBC to 0xE76EBC
+01/01/2017 0:40:18 : Inserted Data at 0x80B354
+01/01/2017 0:40:19 : Saved Data 0xE69EBC
+01/01/2017 0:40:25 : Navigated 0xE6A6BC 0xE76EBC : 8, 8
+01/01/2017 0:40:37 : Saved Data 0xE6A6BC
+01/01/2017 0:42:10 : Opened with NSE 2.X.
+01/01/2017 0:42:22 : Navigated 0xE6A6BC 0xE76EBC : 8, 8
+01/01/2017 0:42:43 : Inserted Data at 0x80B374
+01/01/2017 0:42:45 : Saved Data 0xE6A6BC
+01/01/2017 0:42:49 : Navigated 0xE6AEBC 0xE76EBC : 8, 8
+01/01/2017 0:42:55 : Saved Data 0xE6AEBC
+01/01/2017 0:43:04 : Navigated 0xE6BEBC 0xE76EBC : 8, 8
+01/01/2017 0:43:08 : Saved Data 0xE6BEBC
+01/01/2017 0:43:10 : Saved Data 0xE6BEBC
+01/01/2017 0:43:16 : Navigated 0xE6B6BC 0xE76EBC : 8, 8
+01/01/2017 0:43:26 : Saved Data 0xE6B6BC
+01/01/2017 0:44:21 : Navigated 0xE6C6BC 0xE76EE4 : 8, 8
+01/01/2017 0:45:11 : Saved Data 0xE76EE4 to 0xE76EE4
+01/01/2017 0:45:18 : Inserted Data at 0x80BB74
+01/01/2017 0:45:19 : Saved Data 0xE6C6BC
+01/01/2017 0:45:29 : Navigated 0xE6CEBC 0xE76EE4 : 8, 8
+01/01/2017 0:45:32 : Saved Data 0xE6CEBC
+01/01/2017 0:45:44 : Navigated 0xE6D6BC 0xE76EE4 : 8, 8
+01/01/2017 0:45:47 : Saved Data 0xE6D6BC
+01/01/2017 0:45:51 : Navigated 0xE6DEBC 0xE76EE4 : 8, 8
+01/01/2017 0:45:57 : Saved Data 0xE6DEBC
+01/01/2017 0:46:02 : Navigated 0xE6E6BC 0xE76EE4 : 8, 8
+01/01/2017 0:46:05 : Saved Data 0xE6E6BC
+04/01/2017 20:47:03 : Opened with NSE 2.X.
+04/01/2017 20:47:27 : Saved Data 0xE4B638 to 0xE4B638
+04/01/2017 20:47:40 : Inserted Data at 0x80C67C
+04/01/2017 20:47:43 : Saved Data 0xE4B284 to 0xEA1D68
+04/01/2017 20:47:45 : Replaced pointers at offsets:  0x2395D4
+04/01/2017 20:48:54 : Opened with NSE 2.X.
+04/01/2017 20:48:57 : Opened with NSE 2.X.
+04/01/2017 20:49:19 : Saved Data 0xE4B25C to 0xE4B25C
+04/01/2017 20:49:26 : Inserted Data at 0x80CE7C
+04/01/2017 20:49:29 : Saved Data 0xE4AEF0 to 0xEA20A8
+04/01/2017 20:49:30 : Replaced pointers at offsets:  0x2395CC
+04/01/2017 20:51:33 : Opened with NSE 2.X.
+04/01/2017 20:51:57 : Saved Data 0xE4B948 to 0xE4B948
+04/01/2017 20:52:03 : Inserted Data at 0x80D67C
+04/01/2017 20:52:07 : Saved Data 0xE4B660 to 0xEA23C8
+04/01/2017 20:52:08 : Replaced pointers at offsets:  0x2395DC
+18/04/2017 19:42:39 : Opened with NSE 2.X.
+18/04/2017 19:44:07 : Opened Image C:\Users\Oscar Brock\Desktop\1.bmp
+18/04/2017 19:50:02 : Opened with NSE 2.X.
+18/04/2017 19:50:27 : Saved Data 0xE52ED4 to 0xE5941C
+18/04/2017 19:50:29 : Replaced pointers at offsets:  0x239B8C
+18/04/2017 19:50:54 : Inserted Data at 0x80DE7C
+18/04/2017 19:51:00 : Saved Data 0xE52B9C to 0xEA26E4
+18/04/2017 19:51:02 : Replaced pointers at offsets:  0x2396EC
+17/04/2018 15:55:57 : Opened with NSE 2.X.
+18/04/2018 18:53:54 : Opened with NSE 2.X.
+03/07/2019 19:45:41 : Opened with NSE 2.X.
+03/07/2019 20:02:23 : Opened with NSE 2.X.
+03/07/2019 20:04:16 : Opened with NSE 2.X.
+03/07/2019 20:08:36 : Navigated 0x1699138 0x0 : 22, 18
+03/07/2019 20:12:01 : Navigated 0x169A5D8 0x0 : 16, 8
